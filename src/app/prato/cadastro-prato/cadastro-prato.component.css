@@ -2,3 +2,9 @@
     align-items: center;
     text-align: center;
 }
+label{
+    color: white;
+}
+button{
+    background: black;
+}
